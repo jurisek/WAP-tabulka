@@ -1,0 +1,1 @@
+Dobrý den tady je výsledek zadání práce na SI a WAP, zdokumentovaná tøída na tvorbu tabulky v php. V souboru example.php je znázornìno jak tøídu použivat.
